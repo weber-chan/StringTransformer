@@ -1,4 +1,4 @@
-package org.weber.utils.test;
+package org.weber.utils;
 
 
 import org.junit.Test;
